@@ -19,8 +19,12 @@ A rede de farmácias [Panvel](https://www.panvel.com/) propôs dois desafios par
 ### 4. Instalar o Node na máquina (Pode ser a versão LTS que consta no download da página inicial);
 
    #### Orientações - Node:
-   1. Entrar na [página oficial do Node](https://nodejs.org/pt)
+   1. Entrar na [página oficial do Node](https://nodejs.org/pt);
    2. Clicar no botão de Download;
-      ![orientacaoNode](https://github.com/user-attachments/assets/8529273b-9f47-42a9-ab42-4f0b566ea287)
    
-### 6. Baixar todos os arquivos deste repositório ou clona-lo na sua máquina.
+### 6. Baixar todos os arquivos deste repositório.
+   
+   #### Orientações - Execução:
+   1. Com todos os arquivos baixados, o Node e a extensão Code Runner instalados, abra a pasta onde os arquivos estão salvos com o VSCode;
+   2. Clique em executar:
+      

@@ -27,17 +27,21 @@ Ele é declarado como uma constante no inicio do programa e, nesse caso, funcion
    #### Orientações - Node:
    1. Entrar na [página oficial do Node](https://nodejs.org/pt);
    2. Clicar no botão de Download;
-   3. Instalando o módulo Prompt-Sync: **(Ignorar se baixar todos os arquivos)**
-      + instalar o prompt-sync para conseguir fazer a entrada de dados no console por meio do comando ``npm install prompt-sync`` no terminal integrado do VSCode;
-      + OBS: Instalar o módulo na pasta que contém os arquivos a serem executados.
-           1. Abra a pasta que contém os aquivos .js com o VSCode;
-           2. Crie um teminal;
-           3. Execute o comando ``npm install prompt-sync``.
    
 ### 6. Baixar todos os arquivos deste repositório.
    
    #### Orientações - Execução:
    1. Com todos os arquivos baixados, o Node e a extensão Code Runner instalados, abra a pasta onde os arquivos estão salvos com o VSCode;
-   2. Clique em executar no botão circulado igual ao da imagem:
+   2. Instalando o módulo Prompt-Sync: **(IGNORAR SE BAIXAR TODOS OS ARQUIVOS)**
+      + instalar o prompt-sync para conseguir fazer a entrada de dados no console por meio do comando ``npm install prompt-sync`` no terminal integrado do VSCode;
+      + OBS: Instalar o módulo na pasta que contém os arquivos a serem executados.
+           1. Abra a pasta que contém os aquivos .js com o VSCode;
+           2. Crie um teminal com o atalho **"ctrl+shift+`"**;
+           3. Execute o comando ``npm install prompt-sync`` no terminal.
+           
+           **Exemplo:**
+            ![tutorialPromptSync](https://github.com/user-attachments/assets/5ca316ef-6f6e-4be2-ae8c-3cbc2df4eec9)
+        
+   3. Clique em executar no botão circulado igual ao da imagem:
       ![orientacaoExecucao](https://github.com/user-attachments/assets/0c7d8f31-539d-43ac-ba81-4d2f15232f40)
-   3. Execute e teste o programa.
+   4. Execute e teste o programa.

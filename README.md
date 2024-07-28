@@ -8,6 +8,12 @@ A rede de farmácias [Panvel](https://www.panvel.com/) propôs dois desafios par
 ## Orientações para executar os arquivos dos desafios:
 1. Ter o [Visual Studio Code](https://code.visualstudio.com/download) instalado;
 2. Baixar a extensão **Code Runner** na aba extensões do Visual Studio Code;
-    
+   
+   1. Abrir a aba de extensões do VSCode;
+   2. Digitar "Code Runner" na barra de pesquisa;
+   3. Selecionar a opção que corresponde a está imagem:
+    ![orientacaoCodeRunner](https://github.com/user-attachments/assets/9f6a6a38-20af-476c-90d2-f0217f094828)
+   4. Clicar no botãso de "Instalar".
+      
 4. Instalar o Node na máquina (Pode ser a versão LTS que consta no download da página inicial);
 5. Baixar todos os arquivos deste repositório ou clona-lo na sua máquin.

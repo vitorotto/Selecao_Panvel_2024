@@ -26,5 +26,6 @@ A rede de farmácias [Panvel](https://www.panvel.com/) propôs dois desafios par
    
    #### Orientações - Execução:
    1. Com todos os arquivos baixados, o Node e a extensão Code Runner instalados, abra a pasta onde os arquivos estão salvos com o VSCode;
-   2. Clique em executar:
-      
+   2. Clique em executar no botão circulado igual ao da imagem:
+      ![orientacaoExecucao](https://github.com/user-attachments/assets/0c7d8f31-539d-43ac-ba81-4d2f15232f40)
+   3. Execute e teste o programa.

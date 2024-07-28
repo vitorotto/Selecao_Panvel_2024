@@ -27,9 +27,12 @@ Ele é declarado como uma constante no inicio do programa e, nesse caso, funcion
    #### Orientações - Node:
    1. Entrar na [página oficial do Node](https://nodejs.org/pt);
    2. Clicar no botão de Download;
-   3. #### Instalando o módulo Prompt-Sync: **(Ignorar se baixar todos os arquivos)**
+   3. Instalando o módulo Prompt-Sync: **(Ignorar se baixar todos os arquivos)**
       + instalar o prompt-sync para conseguir fazer a entrada de dados no console por meio do comando ``npm install prompt-sync`` no terminal integrado do VSCode;
       + OBS: Instalar o módulo na pasta que contém os arquivos a serem executados.
+           1. Abra a pasta que contém os aquivos .js com o VSCode;
+           2. Crie um teminal;
+           3. Execute o comando ``npm install prompt-sync``.
    
 ### 6. Baixar todos os arquivos deste repositório.
    

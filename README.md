@@ -16,4 +16,7 @@ A rede de farmácias [Panvel](https://www.panvel.com/) propôs dois desafios par
    4. Clicar no botãso de "Instalar".
       
 4. Instalar o Node na máquina (Pode ser a versão LTS que consta no download da página inicial);
-5. Baixar todos os arquivos deste repositório ou clona-lo na sua máquin.
+
+   1. Entrar na [página oficial do Node](https://nodejs.org/pt)
+   2. Clicar no botão de Download;
+6. Baixar todos os arquivos deste repositório ou clona-lo na sua máquin.

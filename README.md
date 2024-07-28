@@ -45,3 +45,5 @@ Ele é declarado como uma constante no inicio do programa e, nesse caso, funcion
    3. Clique em executar no botão circulado igual ao da imagem:
       ![orientacaoExecucao](https://github.com/user-attachments/assets/0c7d8f31-539d-43ac-ba81-4d2f15232f40)
    4. Execute e teste o programa.
+
+### Vitor Hugo Otto
